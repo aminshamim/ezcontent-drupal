@@ -1,0 +1,15 @@
+name: EZContent Listing
+type: module
+description: 'Includes content listing changes.'
+package: EZContent Block
+core_version_requirement: ^8.8 || ^9
+dependencies:
+  - ezcontent:ezcontent_article
+  - ezcontent:ezcontent_author
+  - ezcontent:ezcontent_block
+  - ezcontent:ezcontent_taxonomy
+
+# Information added by Drupal.org packaging script on 2022-04-04
+version: '2.0.1'
+project: 'ezcontent'
+datestamp: 1649070023

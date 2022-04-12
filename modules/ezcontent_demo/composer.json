@@ -1,0 +1,18 @@
+{
+    "name": "drupal/ezcontent_demo",
+    "description": "A package containing default content used in the demonstration of EzContent profile.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://drupal.org/project/ezcontent_demo",
+    "repositories": {
+        "drupal": {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    },
+    "require": {
+        "drupal/default_content": "^1.0@alpha"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

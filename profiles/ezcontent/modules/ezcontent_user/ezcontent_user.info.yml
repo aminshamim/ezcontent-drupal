@@ -1,0 +1,12 @@
+name: EZContent User Feature
+type: module
+description: 'Provides user based features.'
+package: EZContent User
+core_version_requirement: ^8.8 || ^9
+dependencies:
+  - drupal:path
+
+# Information added by Drupal.org packaging script on 2022-04-04
+version: '2.0.1'
+project: 'ezcontent'
+datestamp: 1649070023

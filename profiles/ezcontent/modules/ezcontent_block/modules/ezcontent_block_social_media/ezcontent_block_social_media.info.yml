@@ -1,0 +1,14 @@
+name: Social Media Block
+type: module
+description: "Provides Social Media Block Types Based Features."
+package: EZContent Block
+core_version_requirement: ^8.8 || ^9
+dependencies:
+  - ezcontent:ezcontent_block
+  - ezcontent:ezcontent_media_instagram
+  - ezcontent:ezcontent_media_twitter
+
+# Information added by Drupal.org packaging script on 2022-04-04
+version: '2.0.1'
+project: 'ezcontent'
+datestamp: 1649070023
